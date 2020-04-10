@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2affee6-65c9-4870-ae5a-c3e955f8e230" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1X3PjcE5OF9ezkksEXQfbyXDgNA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2affee6-65c9-4870-ae5a-c3e955f8e230" name="Default Changelist" comment="" />
+      <created>1580271940389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580271940389</updated>
+      <workItem from="1580271942227" duration="49000" />
+      <workItem from="1580271994693" duration="1303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="200" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580272023168">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="499" y="200" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.40.1536.824/-1280.40.1280.984@0.40.1536.824" timestamp="1580272023168" />
+    <state x="387" y="133" width="761" height="638" key="find.popup" timestamp="1580272154186">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="387" y="133" width="761" height="638" key="find.popup/0.40.1536.824/-1280.40.1280.984@0.40.1536.824" timestamp="1580272154186" />
+  </component>
+</project>

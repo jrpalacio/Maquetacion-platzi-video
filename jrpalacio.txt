@@ -1,0 +1,39 @@
+import React from "react"
+import Menu from "../components/Menu"
+
+class Layout extends React.Component {
+    render() {
+        return (
+            <div>
+                <Menu/>
+
+                <section className="container">
+                    <div className="container__item--vertical">
+                        <h2>
+                            Donde la transformación digital genera resultados.
+                        </h2>
+                    </div>
+                    <div className="container__item--images">
+                        <div className="eager">
+                        </div>
+
+                    </div>
+                    <div className="container__item--description">
+                        <div className="container__description--text">
+                            <h2>Digitaliza tu negocio, aumenta tus ingresos.</h2>
+                            <p>
+                                Con el mensaje apropiado, en el lugar adecuado, tu negocio crecerá más rápido. Aprende a escribir de forma persuasiva e impulsa tus ventas gracias al copywriting que convierte usuarios en clientes los 365 días del año.
+                            </p>
+                            <button>
+                                Aquí puedes conocer más acerca de mis servicios.
+                            </button>
+                        </div>
+                    </div>
+                </section>
+        </div>
+
+        );
+    }
+}
+
+export default Layout;
